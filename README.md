@@ -165,5 +165,3 @@ Contributions are welcome!
 * Contributors and testers
 
 ---
-
-**Built to make communities safer through intelligent forecasting.**
