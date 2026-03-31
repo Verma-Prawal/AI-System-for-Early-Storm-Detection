@@ -1,4 +1,4 @@
-# 🌩️ AI System for Early Storm Detection
+# 🌩️ Storm Pulse AI
 
 An intelligent, AI-powered system designed to detect and predict storms at an early stage using real-time weather data, machine learning models, and environmental signals.
 
